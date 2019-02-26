@@ -1,2 +1,3 @@
 <?php
-echo('hello world');
+echo('hello php');
+var_dump('你好世界');
